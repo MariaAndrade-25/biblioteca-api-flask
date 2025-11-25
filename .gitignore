@@ -1,0 +1,3 @@
+﻿venv/
+*.pyc
+database.db
